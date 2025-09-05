@@ -1,0 +1,27 @@
+{
+  "name": "todo-realtime-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "@adobe/react-spectrum": "3.44.1",
+    "@apollo/client": "^3.10.0",
+    "@spectrum-icons/workflow": "^4.2.24",
+    "graphql": "^16.9.0",
+    "graphql-ws": "^5.14.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^5.0.2",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.1"
+  }
+}

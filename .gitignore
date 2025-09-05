@@ -1,0 +1,6 @@
+backend/.vs/**
+backend/bin/**
+backend/obj/**
+frontend/node_modules/**
+frontend/package-lock.json
+frontend/dist/**
